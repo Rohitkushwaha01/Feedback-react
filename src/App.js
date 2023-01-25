@@ -10,7 +10,6 @@ import AboutPage from "./pages/AboutPage";
 import AboutLink from "./components/AboutLink";
 
 function App() {
-  const [feedback, setFeedback] = useState(FeedbackData)
 
   return (
     <>
